@@ -19,6 +19,13 @@ padding-left: 105px;
 padding-top: 5px;
 padding-bottom: 5px;
 }
+table { 
+margin: auto; 
+width: 90%;
+border-spacing: 0;
+}
+th, td { padding: 10px; }
+tr:nth-of-type(odd) { background-color: #D2B48E; }
 header a { text-decoration: none; }
 header a:link       { color: #231814; }
 header a:visited { color: #231814; }
